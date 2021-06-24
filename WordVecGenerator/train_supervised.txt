@@ -1,0 +1,1415 @@
+__label__ClH	Hydrogen chloride
+__label__HO	Hydroxyl radical
+__label__CClO	Carbonyl chloride
+__label__BrH	Hydrogen bromide
+__label__H	Hydrogen atom
+__label__CS	Carbon monosulfide
+__label__CHN	Hydrogen cyanide
+__label__CO2	Carbon dioxide
+__label__CH3	Methyl radical
+__label__BHO	Boron hydride oxide
+__label__C2H4O	Acetaldehyde
+__label__Br	Bromine
+__label__C2H	Ethynyl radical
+__label__CO	Carbon monoxide
+__label__CHO	Formyl radical
+__label__C8H12	1,5-Cyclooctadiene
+__label__H2O	Water
+__label__C4H6	2-Butyne
+__label__O2	Oxygen
+__label__CH2O	Formaldehyde
+__label__HO2	Hydroperoxy radical
+__label__H2	Hydrogen
+__label__NO2	Nitrogen dioxide
+__label__C3H4	Allene
+__label__FH	hydrogen fluoride
+__label__C7H10	Bicyclo[3.2.0]hept-6-ene
+__label__N2	Nitrogen
+__label__Cl	Chlorine atom
+__label__HNO	Nitrosyl hydride
+__label__C2H2	Acetylene
+__label__D	Deuterium
+__label__C2H4O2	Methyl formate
+__label__C60	Buckminsterfullerene
+__label__C2H3	Vinyl radical
+__label__CH2O2	Formic acid
+__label__C2HF	Ethyne, fluoro-
+__label__CH4O	Methyl Alcohol
+__label__Mg	magnesium
+__label__N2O	Nitrous oxide
+__label__HNO2	Nitrous acid
+__label__OSi	silicon monoxide
+__label__O2Si	Dioxosilane
+__label__Al	Aluminum
+__label__NO	Nitric oxide
+__label__NSi	silicon nitride
+__label__HN	Imidogen
+__label__CH3N	Methanimine
+__label__C3H8	Propane
+__label__C2F2	Ethyne, difluoro-
+__label__C9H12	cis,cis,cis-Cyclononatriene
+__label__C4H6O4	Ethanedioic acid, dimethyl ester
+__label__CH3FO	Methyl hypofluorite
+__label__FHO	HypoFluorous acid
+__label__FO	Oxygen monofluoride
+__label__CH3O	Methoxy radical
+__label__F	Fluorine atom
+__label__C8H8	o-Xylylene
+__label__C8H8	Bicyclo[4.2.0]octa-1,3,5-triene
+__label__C3H6O	Propen-2-ol
+__label__C2H4O	Ethenol
+__label__CH4	Methane
+__label__C2H2O	Ethynol
+__label__C3H6	Propene
+__label__C2H5N	Acetaldimine
+__label__C2H3N	Acetonitrile
+__label__C2H4O2	Acetic acid
+__label__C3H6O	Propanal
+__label__C4H8O	2-Butanone
+__label__C2H5	Ethyl radical
+__label__C3H4O	2-Propenal
+__label__S2	Sulfur dimer
+__label__S	sulfur
+__label__C2H2Cl2	Ethene, 1,1-dichloro-
+__label__CF2O	Carbonic difluoride
+__label__CH4S	Methanethiol
+__label__C2H2O	Ketene
+__label__B2H6	Diborane
+__label__BH3	Borane
+__label__N	Nitrogen atom
+__label__CN-	Cyanide anion
+__label__O	Oxygen, atomic
+__label__HS	Mercapto radical
+__label__O2S	Sulfur dioxide
+__label__D2	Deuterium
+__label__CH3O	Hydroxymethyl radical
+__label__C8H12	cis-1,2-Divinylcyclobutane
+__label__CF3	Trifluoromethyl radical
+__label__C2H4	Ethylene
+__label__H2N2	(Z)-Diazene
+__label__C3H4	Propyne
+__label__ClO	Monochlorine monoxide
+__label__ClHO	Hypochlorous acid
+__label__C5HMnO5	Hydromanganese pentacarbonyl
+__label__C5MnO5	Monomanganese, pentacarbonyl-
+__label__D2N	Amidogen-d2
+__label__DF	[2H]hydrogen fluoride
+__label__DN	Imidogen-d
+__label__HNO3	Nitric acid
+__label__Ni	nickel
+__label__C4H6	1,3-Butadiene
+__label__DH	deuterium hydride
+__label__C2H6O	Ethanol
+__label__H2N	Amino radical
+__label__H3ISi	Iodosilane
+__label__DO	Hydroxyl-d
+__label__D2O	Deuterium oxide
+__label__ClH3Si	chlorosilane
+__label__BrH3Si	Silane, bromo-
+__label__BH	Borane(1)
+__label__C6CrO6	Chromium hexacarbonyl
+__label__C5CrO5	Cr(CO)5
+__label__CH	Methylidyne
+__label__C2F4	Ethene, tetrafluoro-
+__label__AlHO	Aluminum hydroxide
+__label__AlO	Aluminum monoxide
+__label__NO3	Nitrate Radical
+__label__C2	Dicarbon
+__label__NP	Phosphorus mononitride
+__label__CP	Carbon monophosphide
+__label__NS	Mononitrogen monosulfide
+__label__C6H6	Benzene
+__label__CCl2O	Phosgene
+__label__ClNO2	Nitryl chloride
+__label__FNO2	nitryl fluoride
+__label__CH2S	Thioformaldehyde
+__label__COS	Carbonyl sulfide
+__label__FNO3	Fluorine nitrate
+__label__FNO	nitrosyl fluoride
+__label__N2O5	Dinitrogen pentoxide
+__label__N2O4	Dinitrogen tetroxide
+__label__CHNO	Isocyanic acid
+__label__I	Iodine atom
+__label__OS	Sulfur monoxide
+__label__Si2	Silicon dimer
+__label__N2O3	Dinitrogen trioxide
+__label__Br2	Bromine
+__label__F4N2	Tetrafluorohydrazine
+__label__F2N	Difluoroamino radical
+__label__F3N	Nitrogen trifluoride
+__label__DHO	Water-d
+__label__O3	Ozone
+__label__Cl4Si	Silicon tetrachloride
+__label__Cl3Si	Trichlorosilyl
+__label__CHF	Fluoromethylene
+__label__H4Si	Silane
+__label__Cl2Si	Dichlorosilylene
+__label__H3P	Phosphine
+__label__H2P	Phosphino radical
+__label__AlH	Aluminum hydride
+__label__F3P	Phosphorus trifluoride
+__label__H2S	Hydrogen sulfide
+__label__Cl2	Chlorine
+__label__C2H3BrO	Acetyl bromide
+__label__CHS	Thioformyl radical
+__label__F2	fluorine
+__label__Al2	Dialuminum
+__label__ClF	chlorine fluoride
+__label__C4H6O	Methacrolein
+__label__H2O2	Hydrogen peroxide
+__label__C4H6O	Methyl vinyl ketone
+__label__C2H2O	Oxirene
+__label__F4Si	Silicon tetrafluoride
+__label__ClD	Hydrochloric acid-d
+__label__H3N	Ammonia
+__label__BCl3	Boron trichloride
+__label__F3OP	Phosphoryl fluoride
+__label__F5P	Phosphorus pentafluoride
+__label__CH2ClF	Methane, chlorofluoro-
+__label__BrCl	bromine chloride
+__label__Cl3HSi	Trichlorosilane
+__label__I2	Iodine
+__label__C2H4O3	Monomethyl carbonate
+__label__O3S	sulphur trioxide
+__label__H2O4S	Sulfuric Acid
+__label__Ca	calcium
+__label__CaO	calcium oxide
+__label__CaF	Calcium monofluoride
+__label__V	vanadium
+__label__OV	vanadium oxide
+__label__Ga	gallium
+__label__C	carbon
+__label__HI	Hydrogen iodide
+__label__Cd	cadmium
+__label__B	boron
+__label__Ba	barium
+__label__BaHO	Barium monohydroxide
+__label__BaO	barium oxide, obtained by calcining witherite
+__label__W	tungsten
+__label__OW	Tungsten oxide
+__label__Ti	titanium
+__label__OTi	titanium oxide
+__label__Na	sodium
+__label__NaO	sodium oxide
+__label__Si	silicon
+__label__K	potassium
+__label__KO	Monopotassium monooxide
+__label__Hg	mercury
+__label__ClHg	mercury chloride
+__label__FHg	mercury fluoride
+__label__BrHg	Mercury bromide
+__label__Li	lithium
+__label__LiO	Lithium monoxide
+__label__ClLi	lithium chloride
+__label__Pb	lead
+__label__Fe	iron
+__label__FeO	iron oxide
+__label__C4N2	2-Butynedinitrile
+__label__CClNO	Chlorine isocyanate
+__label__CH2O2	Dioxirane
+__label__CH3Cl	Chloromethane
+__label__C2H4O2	1,2-Dioxetane
+__label__C4H5NO	Isoxazole, 5-methyl-
+__label__C5H6	Bicyclo[2.1.0]pent-2-ene
+__label__C5H6	1,3-Cyclopentadiene
+__label__C3H4O	Cyclopropanone
+__label__C7H10	1,3-Cycloheptadiene
+__label__C4H7Cl	(Z)-1-chlorobut-2-ene
+__label__C4H6	1,2-Butadiene
+__label__C2H6N2O2	Methanamine, N-methyl-N-nitro-
+__label__C2N2	Cyanogen
+__label__Cl2H2Si	Dichlorosilane
+__label__C3H6O	Acetone
+__label__C8H12	(Z,E)-1,3-Cyclooctadiene
+__label__C8H12	1,3-Cyclooctadiene, (Z,Z)-
+__label__CHFO	Formyl fluoride
+__label__CH3F	Methyl fluoride
+__label__C4H11N	Ethanamine, N-ethyl-
+__label__ClNO	Nitrosyl chloride
+__label__CCl2	Dichloromethylene
+__label__CH2Cl2	Methylene chloride
+__label__CHF3	Fluoroform
+__label__CHCl	Chloromethylene
+__label__C4H6O	2-Butenal
+__label__C2HF3O2	Trifluoroacetic acid
+__label__C2H4O3	peracetic acid
+__label__CCl3	Trichloromethyl radical
+__label__CHCl3	Trichloromethane
+__label__C2H6O2	ethyl hydroperoxide
+__label__C6H2	1,3,5-Hexatriyne
+__label__C4H10O	2-Propanol, 2-methyl-
+__label__CH4O2	Methyl peroxide
+__label__C3H3	Propargyl radical
+__label__C3H2O	2-Propynal
+__label__C2H3O	Acetyl radical
+__label__C3H4	Cyclopropene
+__label__CH2F2	Difluoromethane
+__label__C2H4O	Ethylene oxide
+__label__CN2	Amidogen, methanetetraylbis-
+__label__C6H8	1,3,5-Hexatriene, (Z)-
+__label__C6H8	1,3-Cyclohexadiene
+__label__CN2	CNN Radical
+__label__C3H5	Allyl radical
+__label__C6H5	Phenyl radical
+__label__CF3I	Methane, trifluoroiodo-
+__label__BaI	Barium monoiodide
+__label__C3H5F3O	3,3,3-Trifluoro-1-propanol
+__label__CH2N2	Methane, diazo-
+__label__CH3NO2	Methane, nitro-
+__label__ClI	Iodine monochloride
+__label__CH3I	Methane, iodo-
+__label__BrI	iodine bromide
+__label__CH3Br	Methane, bromo-
+__label__C4H8	2-Butene, (E)-
+__label__C2H3Cl	Ethene, chloro-
+__label__C2H6	Ethane
+__label__CF2	Methylene, difluoro-
+__label__CF	Fluoromethylidyne
+__label__C7H7	Benzyl radical
+__label__CH3NO2	Methyl nitrite
+__label__C3H7	n-Propyl radical
+__label__C4H10	Butane
+__label__C3H7	Isopropyl radical
+__label__C3H6	Cyclopropane
+__label__C6H12O2	cyclohexyl hydroperoxide
+__label__ClO2	Chlorine dioxide
+__label__C6H5O	Phenoxy radical
+__label__C12H8O	Dibenzofuran
+__label__CH2N2	3H-Diazirine
+__label__C3H5Br	1-Propene, 3-bromo-
+__label__C4H8	1-Butene
+__label__CHClF2	Difluorochloromethane
+__label__CClF3	Chlorotrifluoromethane
+__label__CFO	Carbonyl fluoride
+__label__CF4O2	Bis(fluoroxy)perfluoromethane
+__label__CHCl2F	Fluorodichloromethane
+__label__C5H12O	Propane, 2-methoxy-2-methyl-
+__label__C4H9	Tert-butyl radical
+__label__C4H8	1-Propene, 2-methyl-
+__label__C5H8	1,3-Pentadiene, (Z)-
+__label__C5H8	Cyclopentene
+__label__CHBrF2	Methane, bromodifluoro-
+__label__B2O2	Diboron dioxide
+__label__OPb	Lead oxide
+__label__BeO	beryllium oxide
+__label__C4H6O	Cyclobutanone
+__label__C4H5N	(Z)-2-Butenenitrile
+__label__C5H8	Cyclobutane, methylene-
+__label__C3H6S	Thiirane, methyl-
+__label__C3HN	Propiolonitrile
+__label__C4H6OS	Dihydro-3-(2H)-thiophenone
+__label__C8H8	Styrene
+__label__C5H6O	Furan, 3-methyl-
+__label__C4H6	Cyclobutene
+__label__C6H12O	Cyclohexanol
+__label__C5H10O	1-(vinyloxy)propane
+__label__C5H8	Cyclopropane,ethenyl-
+__label__C6H10	1-Hexyne
+__label__C4H4	1-Buten-3-yne
+__label__C4H4	1,2,3-Butatriene
+__label__C4H4	Cyclobutadiene
+__label__C4H2	1,3-Butadiyne
+__label__C2H7N	Dimethylamine
+__label__C3F6O	2-Propanone, 1,1,1,3,3,3-hexafluoro-
+__label__C9H8	Benzene, 1-propynyl-
+__label__F5S	Sulfur pentafluoride
+__label__C8H14	1-Octyne
+__label__C7H12	1-Heptyne
+__label__C5H12O	Butane, 1-methoxy-
+__label__C4H8O	Butanal
+__label__C4H5N	but-2(E)-enenitrile
+__label__C5H10	2-Pentene, (Z)-
+__label__C5H8	1-Pentyne
+__label__C6H10	Cyclohexene
+__label__C6H8O	Furan, 2,5-dimethyl-
+__label__CH2N2O4	Dinitromethane
+__label__C2H5NO3	Nitric acid, ethyl ester
+__label__C2H6S2	Disulfide, dimethyl
+__label__C3H8S	Ethane, (methylthio)-
+__label__C2H4ClI	Ethane, 1-chloro-2-iodo-
+__label__C8H20Sn	Stannane, tetraethyl-
+__label__CBr2O	Carbonic dibromide
+__label__C2H6Hg	Mercury, dimethyl-
+__label__C2HCl	Ethyne, chloro-
+__label__C2H3Br	Vinyl bromide
+__label__C6H10	1,5-Hexadiene
+__label__C5H8O2	Allyl acetate
+__label__C6H12O	2-Hexanone
+__label__C9H8	Indene
+__label__C4H8	2-Butene, (Z)-
+__label__C12H12	Naphthalene, 1,8-dimethyl-
+__label__C6H12	2-Butene, 2,3-dimethyl-
+__label__C4H9I	tert-Butyl iodide
+__label__C2H3IO	Acetyl iodide
+__label__CBr4	Carbon tetrabromide
+__label__C3H5Cl	1-Propene, 2-chloro-
+__label__C2H6Zn	Dimethylzinc
+__label__CH3Zn	Methyl zinc
+__label__Zn	zinc
+__label__C7H8	1,3,5-Cycloheptatriene
+__label__C6H4Cl2	Benzene, 1,3-dichloro-
+__label__C6H12O2	Acetic acid, 1,1-dimethylethyl ester
+__label__C3H7Cl	n-Propyl chloride
+__label__C8H6	Phenylethyne
+__label__C5H6O	Furan, 2-methyl-
+__label__C6H10	1,3-Butadiene, 2,3-dimethyl-
+__label__C5H10	2-Butene, 2-methyl-
+__label__C4H9Cl	Propane, 2-chloro-2-methyl-
+__label__C2H3ClO	Acetyl chloride
+__label__C4H9Br	Propane, 2-bromo-2-methyl-
+__label__CIN	Cyanogen iodide
+__label__CClN	Cyanogen chloride
+__label__C3O2	1,2-Propadiene-1,3-dione
+__label__C3H6O	Trimethylene oxide
+__label__C8H8	1,4-Cyclohexadiene,3,6-bis(methylene)-
+__label__C14H10	Diphenylacetylene
+__label__C5H12	Neopentane
+__label__C2H3F3	Ethane, 1,1,1-trifluoro-
+__label__Cu	copper
+__label__C3	Tricarbon
+__label__C5H4	1,3-Pentadiyne
+__label__C3F6	Propene, hexafluoro-
+__label__C3H3F3O2	Methyl trifluoroacetate
+__label__C2H2BrF3	2-Bromo-1,1,1-trifluoroethane
+__label__C3H6F2	Propane, 2,2-difluoro-
+__label__C2H4S	Thiirane
+__label__C2H4S	Thioacetaldehyde
+__label__CF4O	trifluoromethyl hypofluorite
+__label__C4F8	Octafluoro-2-butene
+__label__C2HF3	Ethene, trifluoro-
+__label__C2H2F3I	1,1,1-Trifluoro-2-iodoethane
+__label__C4H10S	Diethyl sulfide
+__label__C2H2F2	Ethene, 1,1-difluoro-
+__label__H4N2	Hydrazine
+__label__C3H3N3	1,3,5-Triazine
+__label__CH2N4	1H-Tetrazole
+__label__C3H3NO	Isoxazole
+__label__C4H8	Cyclobutane
+__label__C7H10	Tricyclo[4.1.0.0(2,7)]heptane
+__label__C8H8	Cubane
+__label__C22H14	Dibenz[a,j]anthracene
+__label__C16H10	Fluoranthene
+__label__C18H12	Benzo[c]phenanthrene
+__label__C22H12	Benzo[ghi]perylene
+__label__C24H12	Coronene
+__label__C5H8	Spiropentane
+__label__C4H10O	Methyl propyl ether
+__label__C3H8O	Ethane, methoxy-
+__label__C2H2Cl2	Ethylene, 1,2-dichloro-, (E)-
+__label__C2H2Cl2	Ethylene, 1,2-dichloro-, (Z)-
+__label__C8H18O	n-Butyl ether
+__label__C5H10O	Tetrahydropyran
+__label__C22H14	Pentacene
+__label__C16H10	Pyrene
+__label__BO	Boron monoxide
+__label__C4H6O	2-Butenal, (E)-
+__label__C7H14O	4-Heptanone
+__label__C3H6N6O6	Cyclonite
+__label__C7H8	2,5-Norbornadiene
+__label__C7H6N2O4	Benzene, 1-methyl-2,4-dinitro-
+__label__C14H10	Anthracene
+__label__C7H5N3O6	Trinitrotoluene
+__label__CCl4	Carbon Tetrachloride
+__label__C3H2F4	1,1,2,2-Tetrafluorocyclopropane
+__label__C4H9	Isobutyl radical
+__label__C5H11	2-Methylbut-2-yl radical
+__label__C2H6O	Dimethyl ether
+__label__C2H3F	Ethene, fluoro-
+__label__C3H6O	2-Propen-1-ol
+__label__C4H9	2-Butyl radical
+__label__C8H16	1-Octene
+__label__C6H12O	Butane, 1-(ethenyloxy)-
+__label__C5H5N	Pyridine
+__label__C6H12	Cyclohexane
+__label__C3H8O	Isopropyl Alcohol
+__label__C4H10S2	Diethyl disulfide
+__label__C6H14	n-Hexane
+__label__C8H18O2	Di-tert-butyl peroxide
+__label__C4H5N	Pyrrole
+__label__C3H8O2	Methylal
+__label__C4H9Br	Butane, 1-bromo-
+__label__C6H6O	Phenol
+__label__C6H6O2	1,2-Benzenediol
+__label__C6H5Cl	Benzene, chloro-
+__label__C7H8	Toluene
+__label__C9H12	Mesitylene
+__label__C7H8O	Phenol, 3-methyl-
+__label__C5H10O2	Isopropyl acetate
+__label__C6H14O	Diisopropyl ether
+__label__C4H6O2	Acetic acid ethenyl ester
+__label__C2H2O2	Glyoxal
+__label__C3H3N	2-Propenenitrile
+__label__C3H9N	Propylamine
+__label__C3H7I	Propane, 1-iodo-
+__label__C2H4Cl2	Ethane, 1,2-dichloro-
+__label__C3H5Cl	Allyl chloride
+__label__C4H6	1-Butyne
+__label__C10H10	Benzene, 1-butynyl-
+__label__C10H10	1,4-Dihydronaphthalene
+__label__C3H7Br	Propane, 1-bromo-
+__label__C6H4Cl2	Benzene, 1,4-dichloro-
+__label__C7H8O	p-Cresol
+__label__C8H10	p-Xylene
+__label__C5H10O3	Diethyl carbonate
+__label__C5H10O2	Propanoic acid, ethyl ester
+__label__C14H12	(E)-Stilbene
+__label__C7H6O	Benzaldehyde
+__label__C8H10	Ethylbenzene
+__label__C6H5NO2	Benzene, nitro-
+__label__C5H4O2	Furfural
+__label__C4H6O2	Butyrolactone
+__label__C6H4Cl2	Benzene, 1,2-dichloro-
+__label__C7H8O	Phenol, 2-methyl-
+__label__C18H12	Naphthacene
+__label__C9H7N	Quinoline
+__label__C10H8	Naphthalene
+__label__C12H18	Benzene, hexamethyl-
+__label__C14H10	Phenanthrene
+__label__C8H9NO2	Benzene, 1,3-dimethyl-2-nitro-
+__label__C5H8O2	Methyl methacrylate
+__label__C4H6O2	2-Propenoic acid, 2-methyl-
+__label__C2ClF3	Ethene, chlorotrifluoro-
+__label__C2Cl2O2	Oxalyl chloride
+__label__C6H14	Butane, 2,3-dimethyl-
+__label__C2H5NO2	Ethyl-nitrite-
+__label__C3H6O2	Acetic acid, methyl ester
+__label__C3H6O2	Propanoic acid
+__label__C2H2Cl2O	Acetyl chloride, chloro-
+__label__C2HCl3	Trichloroethylene
+__label__C2H3Cl3	Ethane, 1,1,2-trichloro-
+__label__C3H4O2	Methyl glyoxal
+__label__C5H8	Isoprene
+__label__C4H10O2	tert-Butyl Hydroperoxide
+__label__CH3Cl3Si	Silane, trichloromethyl-
+__label__CF4	Tetrafluoromethane
+__label__CCl2F2	Dichlorodifluoromethane
+__label__CCl3F	Trichloromonofluoromethane
+__label__CBrF3	Bromotrifluoromethane
+__label__BrK	potassium bromide
+__label__CBrCl3	Methane, bromotrichloro-
+__label__C3H6O	Propylene oxide
+__label__C3H6O	Ethene, methoxy-
+__label__C2H4Cl2	Ethane, 1,1-dichloro-
+__label__C3H9N	2-Propanamine
+__label__C3H7Cl	Propane, 2-chloro-
+__label__C4H10	Isobutane
+__label__C3H7Br	Propane, 2-bromo-
+__label__CHBr3	Methane, tribromo-
+__label__C4H8	Methylcyclopropane
+__label__C3H6I2	Propane, 1,3-diiodo-
+__label__C2H6S	Dimethyl sulfide
+__label__C2H6OS	Dimethyl Sulfoxide
+__label__CS2	Carbon disulfide
+__label__C2H6S	Ethanethiol
+__label__C2H7N	Ethylamine
+__label__C2H5I	Ethane, iodo-
+__label__C2H5Cl	Ethyl Chloride
+__label__Zr	zirconium
+__label__CH2BrCl	Methane, bromochloro-
+__label__C2H5Br	Ethyl bromide
+__label__CH5N	Methylamine
+__label__CHP	Methinophosphide
+__label__C4H7N	1-Pyrroline
+__label__C5H10	Cyclopropane, 1,1-dimethyl-
+__label__C2H4O3	1,2,3-Trioxolane
+__label__Nb	niobium
+__label__C8H12	1,3-Cyclooctadiene
+__label__C4H6	Methylenecyclopropane
+__label__C8H12	Bicyclo[2.2.2]oct-2-ene
+__label__C7H10	2-Norbornene
+__label__C5H10	1-Pentene
+__label__C4H12Ge	Germane, tetramethyl-
+__label__C5H12	Butane, 2-methyl-
+__label__C4H12Sn	Stannane, tetramethyl-
+__label__C4H12Si	Silane, tetramethyl-
+__label__Li2O	dilithium oxide
+__label__Li2	Lithium dimer
+__label__HLiO	lithium hydroxide
+__label__MgO	magnesium oxide
+__label__HMgO	Magnesium monohydroxide
+__label__C2H3Cl3	Ethane, 1,1,1-trichloro-
+__label__C6H8	1,4-Cyclohexadiene
+__label__C4H10O	1-Butanol
+__label__C4H5N3O	Cytosine
+__label__C3H8O	1-Propanol
+__label__C7H6O3	Salicylic acid
+__label__C2H6O2S	Dimethyl sulfone
+__label__C4H10O	Propane, 2-methoxy-
+__label__Be	beryllium
+__label__C5H6N2O2	Thymine
+__label__CH6N2	Hydrazine, methyl-
+__label__C4H10O	Ethyl ether
+__label__C2H8N2	Hydrazine, 1,1-dimethyl-
+__label__C3HNO	Cyanoketene
+__label__C18H12	Benz[a]anthracene
+__label__C5H8O	3,6-Dihydro-2H-pyran
+__label__Xe	Xenon
+__label__C2F3N	Acetonitrile, trifluoro-
+__label__C2F6O2	bis(trifluoromethyl) peroxide
+__label__He	helium
+__label__Ar	Argon
+__label__C6H15N	Triethylamine
+__label__FN	Fluoroimidogen
+__label__F6S	Sulfur hexafluoride
+__label__C2F6	Ethane, hexafluoro-
+__label__BrN	Bromoimidogen
+__label__C3F8	Perfluoropropane
+__label__C2H3FO	acetyl fluoride
+__label__C4	Tetracarbon
+__label__CB	boron carbide
+__label__C3H8O2	Propylhydroperoxide
+__label__C7H5N	Benzonitrile
+__label__CH3NO	Formamide
+__label__BeHO	Beryllium hydroxide
+__label__C4H12Pb	Lead, tetramethyl-
+__label__Kr	Krypton
+__label__C3H3NO	Oxazole
+__label__C3H4N2	1H-Pyrazole
+__label__C4H9N	Pyrrolidine
+__label__C4H8O2	Ethyl Acetate
+__label__C6H10O	Cyclohexanone
+__label__C6H10O2	2-Oxepanone
+__label__C2Si	Silicon dicarbide
+__label__C2HBr	Acetylene, bromo-
+__label__CCl	Chloromethylidyne
+__label__C4H8S	Thiophene, tetrahydro-
+__label__CH3NO3	Methyl nitrate
+__label__C4H11N	sec-Butylamine
+__label__C4H11N	Isobutylamine
+__label__CI4	Methane, tetraiodo-
+__label__C8H8O	Acetophenone
+__label__C5	Carbon
+__label__INO	Nitrosyl iodide
+__label__C2H6S2	1,2-Ethanedithiol
+__label__Cl2O	Dichlorine monoxide
+__label__C7H3MnO6	Manganese, acetylpentacarbonyl-, (OC-6-21)-
+__label__BF2	Difluoroboryl radical
+__label__BF3	Boron trifluoride
+__label__DS	Mercapto-d
+__label__C6H3MnO5	Manganese, pentacarbonylmethyl-
+__label__D2S	Hydrogen sulfide-d2
+__label__BrF	Bromine monofluoride
+__label__F10S2	disulphur decafluoride
+__label__BCl2	Dichloroboron
+__label__CClFO	Carbonic chloride fluoride
+__label__Br2Hg	Mercury(II) bromide
+__label__F4S	Sulfur tetrafluoride
+__label__HgI	mercury iodide
+__label__HNaO	Sodium hydroxide
+__label__AlF	Aluminum monofluoride
+__label__AlCl	Aluminum monochloride
+__label__Cs	Cesium
+__label__ClNa	sodium chloride
+__label__C3H7NO2	iso-Propyl nitrite
+__label__C12H10	Biphenyl
+__label__C3H6O	(Z)-1-Propenol
+__label__C3H6O	(E)-1-Propenol
+__label__HKO	Potassium hydroxide
+__label__C6H4	m-Benzyne
+__label__C7H8	5-Methylene 1,3-cyclohexadiene
+__label__C7H8	3-Methylene-1,4-cyclohexadiene
+__label__C6H14	Butane, 2,2-dimethyl-
+__label__C7H16	Butane, 2,2,3-trimethyl-
+__label__C8H18	Butane, 2,2,3,3-tetramethyl-
+__label__C3H5N	Ethyl isocyanide
+__label__C6H12	1-Hexene
+__label__C2H3F3	1,1,2-Trifluoroethane
+__label__C2HBrClF3	1-Bromo-2-chloro-1,1,2-trifluoroethane
+__label__C2HBrClF3	Halothane
+__label__C2Cl4	Tetrachloroethylene
+__label__C4F8	Cyclobutane, octafluoro-
+__label__C4H5N	3-Butenenitrile
+__label__C4H7N	Butanenitrile
+__label__C6H7N	Pyridine, 2-methyl-
+__label__C6H7N	Pyridine, 3-methyl-
+__label__C6H7N	Pyridine, 4-methyl-
+__label__C3H5N	Propanenitrile
+__label__C2H4F2	Ethane, 1,1-difluoro-
+__label__CH2I2	Methane, diiodo-
+__label__C2ClF5	Pentafluoroethyl chloride
+__label__C2Cl2F4	Ethane, 1,2-dichloro-1,1,2,2-tetrafluoro-
+__label__C2Cl3F3	Ethane, 1,1,2-trichloro-1,2,2-trifluoro-
+__label__FLi	Lithium fluoride
+__label__C5H12O	Amylene hydrate
+__label__C6H12O	2-Butanone, 3,3-dimethyl-
+__label__C7H14O	2-Pentanone, 4,4-dimethyl-
+__label__F3NO	Trifluoroamine oxide
+__label__C2H2O3	Formic acid anhydride
+__label__C5H10O	Pentanal
+__label__C2H4Br2	Ethane, 1,1-dibromo-
+__label__F2H2	Hydrogen fluoride dimer
+__label__C5H10O	Cyclopentanol
+__label__C5H8O	Cyclopentanone
+__label__C4H10O2	Ethane, 1,2-dimethoxy-
+__label__ClF3	chlorine trifluoride
+__label__Cr	chromium
+__label__CrO	Chromium monoxide
+__label__CsO	Monocesium monoxide
+__label__C3H4O	Methylketene
+__label__C2Cl6	Ethane, hexachloro-
+__label__C4H6O2	2,3-Butanedione
+__label__C9H20O2	Dibutoxymethane
+__label__C4H9Cl	Butane, 1-chloro-
+__label__C14H14	Bibenzyl
+__label__C5H8	1,3-Pentadiene, (E)-
+__label__C9H18	Cyclohexane, propyl-
+__label__C6H14O	Butane, 2-methoxy-2-methyl-
+__label__C8H14	Cyclooctene
+__label__C6H10	Cyclopentene, 1-methyl-
+__label__C10H22O	n-Amyl ether
+__label__C6H12	1-Pentene, 4-methyl-
+__label__C2H6O2	Peroxide, dimethyl
+__label__C3H6O2	1,3-Dioxolane
+__label__C5H10	2-Pentene, (E)-
+__label__C6H14O	Propane, 2-ethoxy-2-methyl-
+__label__C6H14O2	Ethane, 1,2-diethoxy-
+__label__C7H12	Cycloheptene
+__label__C4H10Hg	Mercury, diethyl-
+__label__C6H12O2	Propanoic acid, 2,2-dimethyl-, methyl ester
+__label__C4H6O	Dimethylketene
+__label__C7H16	Hexane, 2-methyl-
+__label__C7H12	Cyclohexene, 1-methyl-
+__label__C7H16	Hexane, 3-methyl-
+__label__C8H18	Pentane, 2,3,4-trimethyl-
+__label__C5H10	2-Methyl-1-butene
+__label__C5H10	1-Butene, 3-methyl-
+__label__C6H12	1-Butene, 3,3-dimethyl-
+__label__C3H7NO2	Propyl nitrite
+__label__C8H18	Pentane, 2,2,4-trimethyl-
+__label__C4H8O2	1,3-Dioxane
+__label__C5H12O2	Methane, diethoxy-
+__label__ClS	Sulfur chloride
+__label__C6F6	Benzene, hexafluoro-
+__label__C8H16	Cyclooctane
+__label__C7H14	Cycloheptane
+__label__C5H10	Cyclopentane
+__label__C7H16	Heptane
+__label__C7H16O2	Propane, 2,2-diethoxy-
+__label__C10H22	Decane
+__label__C4H8O2	1,4-Dioxane
+__label__C9H20	Nonane
+__label__C8H18	Octane
+__label__C6H14S	Propyl sulfide
+__label__C6H14O	Di-n-propyl ether
+__label__C4H4S	Thiophene
+__label__C4H4O	Furan
+__label__C3H6O2	Ethyl formate
+__label__C4H8O	Ethene, ethoxy-
+__label__C3H8O2	Ethanol, 2-methoxy-
+__label__C5H12	Pentane
+__label__C7H14	Cyclohexane, methyl-
+__label__C8H10	Benzene, 1,3-dimethyl-
+__label__C5H10O	2-Pentanone
+__label__C3H5ClO	Oxirane, (chloromethyl)-
+__label__C6H12	Cyclopentane, methyl-
+__label__C5H10O	3-Pentanone
+__label__C8H10	o-Xylene
+__label__C3H6Cl2	Propane, 1,2-dichloro-
+__label__C4H8O	Propanal, 2-methyl-
+__label__C4H10O	1-Propanol, 2-methyl-
+__label__C5H12O2	Propane, 2,2-dimethoxy-
+__label__C6H7N	Aniline
+__label__F2O2S	Sulfuryl fluoride
+__label__C4H7NO	2-Pyrrolidinone
+__label__C3H9Al	Trimethylaluminum
+__label__F2S2	Difluorodisulfane
+__label__C5H10O	Oxetane, 3,3-dimethyl-
+__label__C3CrO3	Cr(CO)3
+__label__HSi	Silylidyne
+__label__ClSi	Clorosilylidyne
+__label__C4CrO4	Cr(CO)4
+__label__C4FeO4	Iron tetracarbonyl
+__label__D2N2	Diazene-d2, cis
+__label__C2H6O2	1,2-Ethanediol
+__label__C2H6N2O2	(E)-Azodioxymethane
+__label__C2H3Cl	Methylchlorocarbene
+__label__CH4O2	methanediol
+__label__Ge	germanium
+__label__C6H6O	2,4-Cyclohexadienone
+__label__C6H6O	2,5-Cyclohexadienone
+__label__S4	Tetrasulfur
+__label__BCl	Boron monochloride
+__label__B5H9	Pentaborane(9)
+__label__OS2	Disulfur monoxide
+__label__C5H7N	3-Pentenenitrile, (3E)-
+__label__C2H4I2	Ethane, 1,2-diiodo-
+__label__C3H5Cl	trans-1-Chloropropene
+__label__C3H5Cl	1-Propene, 1-chloro-, (Z)-
+__label__FS	Monosulfur monofluoride
+__label__F2S	Sulfur difluoride
+__label__C10Mn2O10	Dimanganese decacarbonyl
+__label__C2H5N	N-Methyl methanimine
+__label__Cl2S	Sulfur dichloride
+__label__FI	Iodine monofluoride
+__label__C6O6W	Tungsten hexacarbonyl
+__label__F2Si	Difluorosilylene
+__label__F3Si	Trifluorosilyl radical
+__label__HHg	Mercury hydride
+__label__C6MoO6	Molybdenum hexacarbonyl
+__label__BF	boron fluoride
+__label__C10H16	3-Carene
+__label__F3HSi	Trifluorosilane
+__label__C5FeO5	Iron pentacarbonyl
+__label__C4NiO4	Nickel tetracarbonyl
+__label__BrNO	Nitrosyl bromide
+__label__C2H5IO	Iodomethyl methyl ether
+__label__AlI	Aluminum monoiodide
+__label__Na2	Disodium
+__label__AlBr	Aluminum monobromide
+__label__C3H5F	trans-1-Fluoro-1-propene
+__label__C3H5F	cis-1-Fluoro-1-propene
+__label__BrF5S	Sulfur bromide fluoride
+__label__F2H2Si	Difluorosilane
+__label__F2N2	Nitrogen fluoride, (E)-
+__label__FH3Si	fluorosilane
+__label__C6H10	(E)-1,3-Hexadiene
+__label__C7H14	2-Heptene, (E)-
+__label__C6H12	3-Hexene, (E)-
+__label__C4H2FeO4	Iron dihydride, tetracarbonyl-
+__label__C8H16	(Z)-2,5-Dimethylhex-3-ene
+__label__BBr3	Boron tribromide
+__label__BBr2H	Dibromoborane
+__label__BFO	Boron monofluoride monoxide
+__label__C4H9NO2	sec-Butyl nitrite
+__label__C4H9NO2	Isobutyl nitrite
+__label__C4H9NO2	n-Butyl nitrite
+__label__Br2Si	Dibromosilylene
+__label__C5H11NO2	C2H5C(CH3)2ONO
+__label__BBr	Boron monobromide
+__label__C12H8Cl2	1,1'-Biphenyl, 2,2'-dichloro-
+__label__Cl2S2	Sulfur monochloride
+__label__ClS2	Sulfur chloride
+__label__Cl2O2S	sulphuryl dichloride
+__label__Br4Si	silicon tetrabromide
+__label__BrSi	Bromosilylidyne
+__label__Br3P	Phosphorus tribromide
+__label__FSi	silicon fluoride
+__label__ClF5S	sulphur chloride pentafluoride
+__label__F2OS	Thionyl fluoride
+__label__F2O	Oxygen difluoride
+__label__S3	Sulfur trimer
+__label__C2HCl5	Ethane, pentachloro-
+__label__C2H2Cl4	Ethane, 1,1,1,2-tetrachloro-
+__label__C2H2Cl4	Ethane, 1,1,2,2-tetrachloro-
+__label__BClF	Boron monochloride monofluoride
+__label__AlO2	Aluminum oxide
+__label__OP	Phosphorus monoxide
+__label__O2P	Phosphorus dioxide
+__label__BO2	Boron dioxide
+__label__FeH2O2	iron dihydroxide
+__label__C4H8Br2	Butane, 1,2-dibromo-
+__label__P	phosphorus
+__label__ClP	Phosphorus chloride
+__label__Cl3P	Phosphorus trichloride
+__label__C6H12	2-Hexene, (Z)-
+__label__Cu2	Copper dimer
+__label__C6H12	3-Hexene, (Z)-
+__label__Cl2Hg	Mercury(II) chloride
+__label__Hf	hafnium
+__label__CuF	Copper monofluoride
+__label__Co	cobalt
+__label__CrO2	chromium dioxide
+__label__ClF3Si	Chlorotrifluorosilane
+__label__F4Ge	tetrafluorogermane
+__label__Cl4Ti	Titanium tetrachloride
+__label__Sn	tin
+__label__Ta	tantalum
+__label__OTa	Tantalum monoxide
+__label__HP	Phosphinidene
+__label__ClK	potassium chloride
+__label__Mo	molybdenum
+__label__MoO	molybdenum oxide
+__label__HgO	mercury monoxide
+__label__Mn	manganese
+__label__BrPb	Lead bromide
+__label__Pb2	Dilead
+__label__C7H14	(Z)-2-Heptene
+__label__C8H18O	Di-tert-Butyl ether
+__label__C5H12O	2-Pentanol
+__label__C10H18	Cyclohexene, 1-methyl-4-(1-methylethyl)-
+__label__C6H10	2,4-Hexadiene, (E,E)-
+__label__C6H10	2,4-Hexadiene, (E,Z)-
+__label__C8H18	Hexane, 2,5-dimethyl-
+__label__C8H14O	Cyclooctanone
+__label__C4H10O2	Peroxide, diethyl
+__label__C7H8O	Benzyl alcohol
+__label__C6H14O	2-Butanol, 2,3-dimethyl-
+__label__C7H10	1,3-Cyclopentadiene, 5,5-dimethyl-
+__label__C6H12	2-Hexene, (E)-
+__label__CBr	Bromomethylidyne
+__label__C10H22	Hexane, 2,2,5,5-tetramethyl-
+__label__C4H11NO	Diethylhydroxylamine
+__label__C9H16	1-Nonyne
+__label__C6H10	1,3-Butadiene, 2-ethyl-
+__label__C3H9In	Trimethylindium
+__label__C4F10	Butane, decafluoro-
+__label__C6H4F10O	2,2,3,3-Tetrafluoropropyl-1',1',2',3',3'-hexafluoropropyl ether
+__label__C3H6O	Cyclopropanol
+__label__Cl3OP	Phosphorus oxychloride
+__label__C6H10	trans-1,4-Hexadiene
+__label__C9H16	1H-Indene, octahydro-, cis-
+__label__C9H16	1H-Indene, octahydro-, trans-
+__label__C6H12O	Methyl Isobutyl Ketone
+__label__C6H4	Benzyne
+__label__C6H6	3,4-Dimethylenecyclobut-1-ene
+__label__C6H6	Fulvene
+__label__C4H8O	Cyclobutanol
+__label__C7H5ClO	Benzoyl chloride
+__label__C5H12O	1-Butanol, 3-methyl-
+__label__FNa	sodium fluoride
+__label__C6H5NO	Benzene, nitroso-
+__label__C4H9Cl	Butane, 2-chloro-
+__label__C8H18	Hexane, 3,4-dimethyl-
+__label__C10H14	Benzene, tert-butyl-
+__label__C3H9N	Methylamine, N,N-dimethyl-
+__label__C9H12	Benzene, (1-methylethyl)-
+__label__C4H7Cl	2-Chloro-1-butene
+__label__C8H18N2	Diazene, dibutyl
+__label__C7H7Cl	Benzyl chloride
+__label__C6H10	1-Pentyne, 4-methyl-
+__label__C7H8O	Anisole
+__label__C12H8Cl2	1,1'-Biphenyl, 4,4'-dichloro-
+__label__C7H14	3-Heptene, (E)-
+__label__C6H12	Pentane, 3-methylene-
+__label__C6H14	Pentane, 2-methyl-
+__label__C8H10O	Benzene, ethoxy-
+__label__C7H16	Pentane, 2,4-dimethyl-
+__label__C5H10O	2-Butanone, 3-methyl-
+__label__C3H5I	1-Propene, 3-iodo-
+__label__C8H14	4-Octyne
+__label__C5H12S	1-Butanethiol, 2-methyl-
+__label__C4H8O	Oxirane, 2,3-dimethyl-, cis-
+__label__C4H6O	Furan, 2,5-dihydro-
+__label__C10H20	Cyclohexane, butyl-
+__label__C2H4ClF	Ethane, 1-chloro-1-fluoro-
+__label__C10H14	Benzene, 1,2,4,5-tetramethyl-
+__label__C7H16	Pentane, 2,2-dimethyl-
+__label__C8H12	1,5-Cyclooctadiene, (Z,Z)-
+__label__C6H10	Cyclopentane, methylene-
+__label__C6H6O	2-Vinylfuran
+__label__C5H8O	Furan, 2,3-dihydro-5-methyl-
+__label__C3H9Ga	Gallium trimethyl
+__label__H2MgO2	magnesium hydroxide
+__label__CaH2O2	calcium dihydroxide
+__label__C4H6O	Furan, 2,3-dihydro-
+__label__C6H16Ge	Germane, triethyl-
+__label__C12H12	Naphthalene, 1-ethyl-
+__label__C5H7NO2	2,5-Pyrrolidinedione, 1-methyl-
+__label__C5H10O2	1,3-Dioxane, 4-methyl-
+__label__C6H10	Cyclopentene, 3-methyl-
+__label__C11H24	Undecane
+__label__C4H6OS	Divinyl sulfoxide
+__label__C9H20	Pentane, 3,3-diethyl-
+__label__C12H12	Naphthalene, 2-ethyl-
+__label__C8H14	Cyclooctene, (Z)-
+__label__C4H7Cl	4-chlorobut-1-ene
+__label__C4H10O	2-Butanol
+__label__C5H8O	2-Ethylacrolein
+__label__C6H12	2-Pentene, 3-methyl-, (Z)-
+__label__C4H9NO2	Propane, 2-methyl-2-nitro-
+__label__C6H10	1-Butyne, 3,3-dimethyl-
+__label__C9H10	trans-β-Methylstyrene
+__label__C5H9NO	2-Pyrrolidinone, 1-methyl-
+__label__C10H20	1-Decene
+__label__C6F5I	Benzene, pentafluoroiodo-
+__label__C9H18O	2-Nonanone
+__label__C6H8	1,3,5-Hexatriene, (E)-
+__label__C6H10O2	2,4-Pentanedione, 3-methyl-
+__label__C7H3F5	Benzene, pentafluoromethyl-
+__label__C3H7N	Cyclopropylamine
+__label__C6H14N2	Diazene, dipropyl
+__label__C10H18	1-Decyne
+__label__C6H10	2-Hexyne
+__label__C8H14	2,4-Hexadiene, 2,5-dimethyl-
+__label__C5H10O2	Formic acid, 1,1-dimethylethyl ester
+__label__C5H11NO	Propanamide, N,N-dimethyl-
+__label__C11H16	Benzene, pentamethyl-
+__label__C8H16	3-Hexene, 2,5-dimethyl-, (E)-
+__label__C8H16	3-Hexene, 2,2-dimethyl-, (E)-
+__label__C4F6	1,3-Butadiene, 1,1,2,3,4,4-hexafluoro-
+__label__C4F6	Cyclobutene, hexafluoro-
+__label__C6H4FeO4	η(2)-Etheneiron tetracarbonyl
+__label__C9H6CrO3	Benzenechromiumtricarbonyl
+__label__C4CoO4	Cobalt, tetracarbonyl
+__label__C8H5MnO3	Manganese, tricarbonyl(η5-2,4-cyclopentadien-1-yl)-
+__label__C16H32	Cetene
+__label__C15H32	Pentadecane
+__label__C14H30	Tetradecane
+__label__C13H28	Tridecane
+__label__C8H18S2	Disulfide, dibutyl
+__label__C8H8	1,3,5,7-Cyclooctatetraene
+__label__C4H9ClO	1-Chloro-2-ethoxyethane
+__label__C5H8	2-Pentyne
+__label__C6H14O	2-Hexanol
+__label__C5H8O	3-Penten-2-one
+__label__C4H8O	Oxirane, 2,3-dimethyl-, trans-
+__label__C7H7I	Benzene, 1-iodo-4-methyl-
+__label__C6H12O2	Methyl valerate
+__label__C5H8O2	2-Butenoic acid, methyl ester, (E)-
+__label__C6H14O	3-Hexanol
+__label__C9H12	Benzene, 1-ethyl-4-methyl-
+__label__C9H12	Benzene, 1-ethyl-3-methyl-
+__label__C7H16	Pentane, 3-ethyl-
+__label__C5H6S	Thiophene, 3-methyl-
+__label__C6H12	2-Pentene, 3-methyl-, (E)-
+__label__C14H12	Anthracene, 9,10-dihydro-
+__label__C9H10	Benzene, 1-ethenyl-2-methyl-
+__label__C9H12	Benzene, 1-ethyl-2-methyl-
+__label__C5H12O	2-Butanol, 3-methyl-
+__label__C5H8	1,2-Butadiene, 3-methyl-
+__label__C8H20Ge	Tetraethylgermanium
+__label__C3H9Sn	Trimethyltin
+__label__C3H9Sb	Stibine, trimethyl-
+__label__CH3ClHg	Mercury, chloromethyl-
+__label__C6H12O	Oxepane
+__label__C7H14	1-Heptene
+__label__C4H7Cl	2-Butene, 1-chloro-
+__label__C5H8	2,3-Pentadiene
+__label__C5H8	1,2-Pentadiene
+__label__C5H8	1,4-Pentadiene
+__label__C6H5I	Benzene, iodo-
+__label__C7H9N	Pyridine, 3,5-dimethyl-
+__label__C8H18	Hexane, 2,2-dimethyl-
+__label__C3H5Cl	1-Propene, 1-chloro-
+__label__C3H5Br	(E)-1-Bromo-1-propene
+__label__C3H5Br	(Z)-1-Bromo-1-propene
+__label__C7H9N	Pyridine, 2,5-dimethyl-
+__label__C8H18	Heptane, 3-methyl-
+__label__C7H16O	4-Heptanol
+__label__C6H12O	3-Hexanone
+__label__C5H12O	3-Pentanol
+__label__C7H9N	Pyridine, 2,3-dimethyl-
+__label__C7H9N	Pyridine, 3,4-dimethyl-
+__label__C12H12	Naphthalene, 2,7-dimethyl-
+__label__C12H12	Naphthalene, 2,6-dimethyl-
+__label__C12H12	Naphthalene, 2,3-dimethyl-
+__label__C8H10O	Phenol, 2,6-dimethyl-
+__label__C12H12	Naphthalene, 1,6-dimethyl-
+__label__C12H12	Naphthalene, 1,3-dimethyl-
+__label__C12H12	Naphthalene, 1,7-dimethyl-
+__label__C12H12	Naphthalene, 1,2-dimethyl-
+__label__C12H12	Naphthalene, 1,5-dimethyl-
+__label__C12H12	Naphthalene, 1,4-dimethyl-
+__label__C7H14O	3-Pentanone, 2,4-dimethyl-
+__label__C6H12O	2-Pentanone, 3-methyl-
+__label__C7H16	Pentane, 2,3-dimethyl-
+__label__C6H12	1-Butene, 2,3-dimethyl-
+__label__C4H7Cl	1-Butene, 3-chloro-
+__label__C6H5NO3	Phenol, 3-nitro-
+__label__C10H16	2-Carene
+__label__C5H6S	Thiophene, 2-methyl-
+__label__C16H34	Hexadecane
+__label__C8H18S	Butyl sulfide
+__label__C5H11Cl	Pentane, 1-chloro-
+__label__C4H9NO2	t-Butyl nitrite
+__label__C6H4F2	Benzene, 1,4-difluoro-
+__label__C8H10O	Phenol, 2,3-dimethyl-
+__label__C9H12	Benzene, 1,2,3-trimethyl-
+__label__C4H10S	2-Butanethiol
+__label__C4H10S	1-Propanethiol, 2-methyl-
+__label__CBrN	Cyanogen bromide
+__label__C5H10O2	1,3-Dioxepane
+__label__C8H8O	Benzofuran, 2,3-dihydro-
+__label__C9H10	Indane
+__label__C9H10O	Isochroman
+__label__C10H18	Naphthalene, decahydro-, trans-
+__label__C10H18	Naphthalene, decahydro-, cis-
+__label__C7H8O2	1,2-Benzenediol, 3-methyl-
+__label__C12H8	Biphenylene
+__label__C7H8O2	1,2-Benzenediol, 4-methyl-
+__label__C7F8	Benzene, pentafluoro(trifluoromethyl)-
+__label__C4H3F7O	2,2,3,3,4,4,4-Heptafluoro-butanol
+__label__C6H4F2	Benzene, 1,3-difluoro-
+__label__C6H4F2	Benzene, 1,2-difluoro-
+__label__C6HF5	Benzene, pentafluoro-
+__label__C6F10	Decafluorocyclohexene
+__label__C6ClF5	Benzene, chloropentafluoro-
+__label__C6H2F4	Benzene, 1,2,4,5-tetrafluoro-
+__label__C6H6O	Oxepin
+__label__C3H6S	Thietane
+__label__C6H10O	7-Oxabicyclo[4.1.0]heptane
+__label__C5H8O	6-Oxabicyclo[3.1.0]hexane
+__label__C10H16	Adamantane
+__label__C8H14	Bicyclo[2.2.2]octane
+__label__C7H12	Norbornane
+__label__C7H8	Tetracyclo[3.2.0.0(2,7).0(4,6)]heptane
+__label__C10H8	Azulene
+__label__C8H6O	Benzofuran
+__label__C12H8O2	Dibenzo-p-dioxin
+__label__C12H8	Acenaphthylene
+__label__C4H6	Bicyclo[1.1.0]butane
+__label__C4H10O3	Methane, trimethoxy-
+__label__C2H2O4	Oxalic acid
+__label__C6H10O	3-Penten-2-one, 4-methyl-
+__label__C7H12O2	2-Propenoic acid, butyl ester
+__label__C5H8O2	2-Propenoic acid, ethyl ester
+__label__C10H6O2	1,4-Naphthalenedione
+__label__C8H16O	Octanal
+__label__C6H12O2	Acetic acid, butyl ester
+__label__C5H8O2	Acetylacetone
+__label__C6H12O2	2-Pentanone, 4-hydroxy-4-methyl-
+__label__C6H6O2	Hydroquinone
+__label__C8H11N	Benzenamine, N,N-dimethyl-
+__label__C6H3Cl3	Benzene, 1,2,4-trichloro-
+__label__C9H7N	Isoquinoline
+__label__C10H12	Naphthalene, 1,2,3,4-tetrahydro-
+__label__C12H24	1-Dodecene
+__label__C12H26	Dodecane
+__label__C8H18O	1-Octanol
+__label__C7H14O	Heptanal
+__label__C7H16O	1-Heptanol
+__label__C6H14O	1-Hexanol
+__label__C8H16O	2-Octanone
+__label__C8H14O	5-Hepten-2-one, 6-methyl-
+__label__C3H6O3	1,3,5-Trioxane
+__label__C4H10O2	1,4-Butanediol
+__label__C5H11Br	Pentane, 1-bromo-
+__label__C5H10O3	Ethanol, 2-methoxy-, acetate
+__label__C4H8O	Tetrahydrofuran
+__label__C5H10O2	n-Propyl acetate
+__label__C6H6S	Benzenethiol
+__label__C6H13N	Cyclohexylamine
+__label__C9H18O	4-Heptanone, 2,6-dimethyl-
+__label__C8H10O	Phenol, 3,5-dimethyl-
+__label__C7H9N	2,6-Lutidine
+__label__C7H9N	Pyridine, 2,4-dimethyl-
+__label__C6H6O2	Resorcinol
+__label__C4H2O3	Maleic anhydride
+__label__C6H14O	2-Pentanol, 4-methyl-
+__label__C4H8O2	Butanoic acid
+__label__C2H5NO	Acetaldoxime
+__label__C3H8S	Propyl mercaptan
+__label__C4H8O	Oxirane, ethyl-
+__label__C8H16O2	Heptanoic acid, methyl ester
+__label__C7H14O2	Hexanoic acid, methyl ester
+__label__C6H4O2	p-Benzoquinone
+__label__C8H10O	Phenol, 2,4-dimethyl-
+__label__C6H12O2	Butanoic acid, ethyl ester
+__label__C9H12	Benzene, propyl-
+__label__C8H12	Cyclohexene, 4-ethenyl-
+__label__C7H7Br	Benzene, (bromomethyl)-
+__label__C6H5NO3	Phenol, 4-nitro-
+__label__C9H10	α-Methylstyrene
+__label__C7H5F3	Benzene, (trifluoromethyl)-
+__label__C3H5ClO2	Acetic acid, chloro-, methyl ester
+__label__C4H6O2	2-Propenoic acid, methyl ester
+__label__C3H5Cl3	Propane, 1,2,3-trichloro-
+__label__C6H14	Pentane, 3-methyl-
+__label__C8H10O	Phenol, 2,5-dimethyl-
+__label__C8H10O	Phenol, 3,4-dimethyl-
+__label__C9H12	Benzene, 1,2,4-trimethyl-
+__label__C6H7NO	Phenol, o-amino-
+__label__C8H10O2	Creosol
+__label__C11H10	Naphthalene, 2-methyl-
+__label__C11H10	Naphthalene, 1-methyl-
+__label__C6H5NO3	Phenol, 2-nitro-
+__label__C13H10	Fluorene
+__label__C12H10	Acenaphthene
+__label__C10H16	Camphene
+__label__C2HCl3O	Acetyl chloride, dichloro-
+__label__C3H7NO	Acetamide, N-methyl-
+__label__C3H4O2	2-Propenoic acid
+__label__C4H7N	Isobutyronitrile
+__label__C5H6	1-Buten-3-yne, 2-methyl-
+__label__C5H11Cl	Butane, 1-chloro-3-methyl-
+__label__C4H9Br	Butane, 2-bromo-
+__label__C8H20Pb	Tetraethyllead
+__label__C10H16O	Camphor
+__label__C4H10S	2-Propanethiol, 2-methyl-
+__label__C4H11N	2-Propanamine, 2-methyl-
+__label__C3H8S	2-Propanethiol
+__label__OZr	zirconium oxide
+__label__NbO	niobium oxide
+__label__CH3F3Si	Silane, trifluoromethyl-
+__label__C5H12O	1-Pentanol
+__label__C3H8O2	Propylene Glycol
+__label__Ne	neon
+__label__C7H12	Cyclopentene, 1,2-dimethyl-
+__label__C6H9N	1H-Pyrrole, 2,5-dimethyl-
+__label__C6H12N2	Triethylenediamine
+__label__C7H6O2	Benzoic acid
+__label__C2Cl4O	Trichloroacetyl chloride
+__label__C5H7N	1H-Pyrrole, 1-methyl-
+__label__C4H6O	1,3-Butadiene-2-ol
+__label__C8H8O	Phthalan
+__label__C8H8O2	Benzoic acid, methyl ester
+__label__C5H6O	Cyclopenta-1,3-dien-2-ol
+__label__C5H11ClO3	1,1,1-Trimethoxy-2-chloroethane
+__label__C10H14	1,3-Cyclopentadiene, 1,2,3,4-tetramethyl-5-methylene-
+__label__C6H8	cis-2,3,4-Hexatriene
+__label__C6H8	trans-2,3,4-Hexatriene
+__label__C8H10	Bicyclo[2.2.0]hexane, 2,3-bis(methylene)-
+__label__C2H4O3	Acetic acid, hydroxy-
+__label__C6H13NO2	Glycine, N,N-dimethyl-, ethyl ester
+__label__CH3N3O4	Methyldinitramine
+__label__C8H12	1,5-Cyclooctadiene, (E,E)-
+__label__C8H12	Cyclobutane, 1,2-diethenyl-, trans-
+__label__AlCl2	Aluminum chloride
+__label__CaCl	Calcium monochloride
+__label__ClCu	copper chloride
+__label__Sr	strontium
+__label__OSr	Strontium monoxide
+__label__ClSr	Strontium monochloride
+__label__ClMg	Magnesium chloride
+__label__C8H10	1,3,6-Cyclooctatriene
+__label__C8H10	Bicyclo[4.2.0]octa-2,4-diene
+__label__C8H10	Octa-1,2,6,7-teraene
+__label__C8H10	2,3-Divinylbutadiene
+__label__C12H7ClO2	Dibenzo[b,e][1,4]dioxin, 2-chloro-
+__label__C12H22	1,1'-Bicyclohexyl
+__label__C3H8O2	Hydroperoxide, 1-methylethyl
+__label__CF5N	Pentafluoromethylamine
+__label__C2Cl2	Ethyne, dichloro-
+__label__C6H10	(Z),(Z)-2,4-Hexadiene
+__label__CClN3O6	Methane, chlorotrinitro-
+__label__C4H9F2N	t-Butyldifluoroamine
+__label__C8H16O2	Cyclohexane, 1,1-dimethoxy-
+__label__C7H12O	Cyclohexene, 1-methoxy-
+__label__C6H10	3-Hexyne
+__label__C2N6O12	hexanitroethane
+__label__C5H12N2O	Urea, tetramethyl-
+__label__CIN3O6	Methane, iodotrinitro-
+__label__C2H3N	Methyl isocyanide
+__label__C4H10Cd	Cadmium, diethyl-
+__label__C8H16	Cyclohexane, 1,1-dimethyl-
+__label__C7H5NO	Benzene, isocyanato-
+__label__CBrN3O6	Methane, bromotrinitro-
+__label__C4H10Zn	Diethylzinc
+__label__C6H11Cl	Cyclohexane, chloro-
+__label__CN4O8	Methane, tetranitro-
+__label__C5H11N	Piperidine
+__label__C6H9F3O2	Acetic acid, trifluoro-, 1,1-dimethylethyl ester
+__label__C6BrF5	Benzene, bromopentafluoro-
+__label__C2H4O3	1,2,4-Trioxolane
+__label__C5H9Br	Cyclopentane, bromo-
+__label__C6H13Br	Hexane, 1-bromo-
+__label__C5H12S	1-Pentanethiol
+__label__C9H12O	Phenol, 2,4,6-trimethyl-
+__label__C8H10O	Benzene, 1-methoxy-3-methyl-
+__label__C6H15N	Diisopropylamine
+__label__C2H8N2	Ethylenediamine
+__label__C3H6N2	3-Aminopropionitrile
+__label__C8H10O	Benzene, 1-methoxy-4-methyl-
+__label__C6H14O2	Ethane, 1,1-diethoxy-
+__label__C16H26	Benzene, decyl-
+__label__C8H10O	Phenol, 3-ethyl-
+__label__C8H10O	Phenol, 4-ethyl-
+__label__C8H10O	Phenol, 2-ethyl-
+__label__C10H14O	Phenol, m-tert-butyl-
+__label__C10H14O	Phenol, p-tert-butyl-
+__label__C10H14O	Phenol, 2-(1,1-dimethylethyl)-
+__label__BrNa	sodium bromide
+__label__C3H6Cl2	Propane, 2,2-dichloro-
+__label__C6H4	(Z)-Hexa-1,5-diyne-3-ene
+__label__C4H6O3	Acetic anhydride
+__label__C4H10N2	Piperazine
+__label__C8H14	2,4-Hexadiene, 3,4-dimethyl-, (E,Z)-
+__label__C10H14	Bicyclo[4.2.2]deca-3,7-diene-
+__label__C10H14	Bicyclo[2.2.2]oct-2-ene, 5-ethenyl-, (1α,4α,5α)-
+__label__C10H14	Bicyclo[2.2.2]oct-2-ene, 5-ethenyl-, (1α,4α,5β)-
+__label__C8H10	1,2-Divinylcyclobutene
+__label__C8H10	Bicyclo[4.2.0]octa-1,5-diene
+__label__C4H6N4	2-Methyl-5-vinyltetrazole
+__label__Cs2	Cesium dimer
+__label__AlCl3	aluminium chloride
+__label__CuO	copper oxide
+__label__Rb	rubidium
+__label__IK	potassium iodide
+__label__ILi	lithium iodide
+__label__C5H9N	Propanenitrile, 2,2-dimethyl-
+__label__C5H10N2O2	Piperidine, 1-nitro-
+__label__C8H8	Cyclopropa[cd]pentalene, 2a,2b,4a,4b-tetrahydro-
+__label__C8H12	1,5-Cyclooctadiene, (E,Z)-
+__label__C4H6N2O	Furazan, dimethyl-
+__label__C4H8N4O4	Piperazine, 1,4-dinitro-
+__label__C3H6N4	2H-Tetrazole, 2,5-dimethyl-
+__label__C5H8	1-Butyne, 3-methyl-
+__label__C6H14N2	Diazene, diisopropyl
+__label__C6H10	4-Methyl-2-pentyne
+__label__C2H5NS	Ethanethioamide
+__label__CsHO	Cesium hydroxide
+__label__C10H20	Cyclopentane, pentyl-
+__label__C4H6O2S	Diacetyl sulphide
+__label__C4H6	1-Methylcyclopropene
+__label__C4H6O2	2-Oxetanone, 4-methyl-
+__label__C6H10	cis-2-Methyl-1-vinylcyclopropane
+__label__C6H10	1,4-Hexadiene, (Z)-
+__label__C4H6N2O2	Dimethylfurazan monoxide
+__label__C7H7I	Benzene, (iodomethyl)-
+__label__C8H16	Cyclopentane, propyl-
+__label__C9H18	Cyclopentane, butyl-
+__label__C2HCl3O2	Trichloroacetic Acid
+__label__C3H7ClO	Ethane, 1-chloro-1-methoxy-
+__label__C6H15Ga	triethylgallium
+__label__C6H14Hg	Diisopropyl mercury
+__label__C8H18N2	Diazene, bis(1,1-dimethylethyl)-
+__label__C7H14O2	2-Butanol, 2-methyl-, acetate
+__label__C10H13N	Bicyclo[2.2.2]oct-5-ene-2-carbonitrile, 3-methyl-, (1α,2α,3α,4α)- (endo,endo)
+__label__C10H13N	Bicyclo[2.2.2]oct-5-ene-2-carbonitrile, 3-methyl-, (1α,2β,3β,4α)- (exo,exo)
+__label__C10H13N	Bicyclo[2.2.2]oct-5-ene-2-carbonitrile, 3-methyl-, (1α,2α,3β,4α)- (endo,exo)
+__label__C10H13N	Bicyclo[2.2.2]oct-5-ene-2-carbonitrile, 3-methyl-, (1α,2β,3α,4α)- (exo,endo)
+__label__C11H18	Bicyclo[2.2.2]oct-2-ene,5-(1-methylethyl)-,(1α,4α,5α)-
+__label__C11H18	Bicyclo[2.2.2]oct-2-ene, 5-(1-methylethyl)-, (1α,4α,5β)-
+__label__C4H8O2	1,3-Dioxolane, 2-methyl-
+__label__C2H3BrF2	1-Bromo-1,1-difluoroethane
+__label__C6H10	Bicyclo[2.2.0]hexane
+__label__C5H8	Bicyclo[2.1.0]pentane
+__label__C9H14	Bicyclo[2.2.2]oct-2-ene, 5-methyl-, (1α,4α,5α)-
+__label__C9H14	Bicyclo[2.2.2]oct-2-ene, 5-methyl-, (1α,4α,5β)-
+__label__C9H11N	Bicyclo[2.2.2]oct-5-ene-2-carbonitrile, (1α,2α,4α)-
+__label__C9H11N	Bicyclo[2.2.2]oct-5-ene-2-carbonitrile, (1α,2β,4α)-
+__label__C10H16	Bicyclo[2.2.2]oct-2-ene, 5-ethyl-, (1α,4α,5α)-
+__label__C10H16	Bicyclo[2.2.2]oct-2-ene, 5-ethyl-, (1α,4α,5β)-
+__label__HLi	lithium hydride
+__label__C2H5NO	Acetamide
+__label__C3H4O2	Propiolactone
+__label__C9H10	Benzene, 1-ethenyl-3-methyl-
+__label__C9H10	Benzene, 1-ethenyl-4-methyl-
+__label__C6H5NO2	Niacin
+__label__C8H8O3	Benzoic acid, 3-methoxy-
+__label__C5H10O2	Butanoic acid, 3-methyl-
+__label__C4H7IO	3-Iodo-2-butanone
+__label__C10H18	Cyclohexene, 4-methyl-1-(1-methylethyl)-
+__label__C8H12	Tricyclo[3.2.1.0(1,5)]octane
+__label__C8H12	Cyclohexane, 1,3-bis(methylene)-
+__label__C6H3N3O4	Benzofurazan, 4-nitro-, 1-oxide
+__label__C7H9N	Benzenamine, 3-methyl-
+__label__C5H5N	Bicyclo[1.1.0]butane-1-carbonitrile
+__label__C8H8O2	Benzoic acid, 3-methyl-
+__label__C7H5ClO2	Benzoic acid, 3-chloro-
+__label__C7H9N	p-Aminotoluene
+__label__Rb2	Dirubidium
+__label__K2	Dipotassium
+__label__F2N2	(Z)-Difluorodiazene
+__label__C8H8O2	Benzoic acid, 4-methyl-
+__label__ClF5	chlorine pentafluoride
+__label__BBr2	Dibromoborane
+__label__Br3Si	Tribromosilyl radical
+__label__Cl3Ti	titanium trichloride
+__label__ClPb	Lead chloride
+__label__C7H10	cis-Bicyclo[3.2.0]hept-2-ene
+__label__C3H6N4	1H-Tetrazole, 1,5-dimethyl-
+__label__C16H40N4Ti	Tetrakis(diethylamino)titanium
+__label__C5H7Cl3O2	Trichloroaetic acid isopropyl ester
+__label__C6H10	Cyclopentene, 4-methyl-
+__label__C6H8N2O2	Tetramethylene furoxan
+__label__C6H11NO	Caprolactam
+__label__C6H15O4V	Triethoxo-oxovanadium
+__label__C3H9ClGe	chlorotrimethylgermane
+__label__C3H9ClSn	Stannane, chlorotrimethyl-
+__label__C5H10O	Propane, 2-(ethenyloxy)-
+__label__C8H8O3	Benzoic acid, 4-methoxy-
+__label__C7H5ClO2	Benzoic acid, 4-chloro-
+__label__C6H8	Bicyclo(3.1.0)hex-2-ene
+__label__C4H4O2	2-Oxetanone, 4-methylene-
+__label__C6H14Hg	Di-n-propyl mercury
+__label__C8H14O2	Acetic acid, cyclohexyl ester
+__label__C8H6O3	Benzoylformic acid
+__label__C6H4Cl2O	Phenol, 3,5-dichloro-
+__label__C2H2I2	(E)-1,2-Diiodoethylene
+__label__C6H4Cl2O	Phenol, 2,5-dichloro-
+__label__C6H4Cl2O	Phenol, 2,3-dichloro-
+__label__C3H5ClO2	Carbonochloridic acid, ethyl ester
+__label__C2H6Cd	dimethylcadmium
+__label__CH3Cd	CdCH3
+__label__C6H4N2O2	Benzofuroxan
+__label__C6H4Cl2O	Phenol, 2,4-dichloro-
+__label__C5H8O	2H-Pyran, 3,4-dihydro-
+__label__C8H18S2	Di-tert-butyl disulfide
+__label__C6H4Cl2O	Phenol, 3,4-dichloro-
+__label__C6H4Cl2O	Phenol, 2,6-dichloro-
+__label__C7H5IO2	Benzoic acid, 3-iodo-
+__label__C6H7NO	Phenol, 4-amino-
+__label__C7H5IO2	Benzoic acid, 4-iodo-
+__label__C7H5BrO2	Benzoic acid, 3-bromo-
+__label__C6H7N	3-Methylenecyclobutanenitrile
+__label__Si3	Silicon timer
+__label__C7H6O3	Benzoic acid, 3-hydroxy-
+__label__C7H8S	Benzenemethanethiol
+__label__C5H12S	Propane, 2-methyl-2-(methylthio)-
+__label__C7H5BrO2	Benzoic acid, 4-bromo-
+__label__C5H7N	Cyclobutanecarbonitrile
+__label__C6H6N2O2	p-Nitroaniline
+__label__C3H5IO	1-iodoacetone
+__label__C6H12N2	2-(Diethylamino)acetonitrile
+__label__C5H10	Cyclopropane, 1,2-dimethyl-, trans-
+__label__C5H10	Cyclopropane, 1,2-dimethyl-, cis-
+__label__C8H10S	Benzyl methyl sulfide
+__label__C9H10	(Z)-1-Phenylpropene
+__label__C4H8OS	S-Ethyl ethanethioate
+__label__C7H5IO	Benzoyl iodide
+__label__C7H7NO2	Benzoic acid, 3-amino-
+__label__FK	Potassium fluoride
+__label__C4H4F4	Cyclobutane,1,1,2,2-tetrafluoro-
+__label__C7H12	Bicyclo[4.1.0]heptane
+__label__C18H12	Triphenylene
+__label__C14H10O2	Ethanedione, diphenyl-
+__label__BClO	Boron chloride oxide
+__label__C8H8O2	Acetic acid, phenyl ester
+__label__C7H6O3	Benzoic acid, 4-hydroxy-
+__label__C7H7NO2	4-Aminobenzoic acid
+__label__BHO2	metaboric acid
+__label__ClCs	caesium chloride
+__label__FMg	Magnesium monofluoride
+__label__BrMg	Magnesium bromide
+__label__C5H6	Cyclopropylacetylene
+__label__C5H6	1,2,4-Pentatriene
+__label__CsF	caesium fluoride
+__label__C5H8O	Ethanone, 1-cyclopropyl-
+__label__C5H9N	1,2,3,6-Tetrahydropyridine
+__label__C8H18	Heptane, 2-methyl-
+__label__C12H10Hg	Mercury, diphenyl-
+__label__C5H7NO	Isoxazole, 3,5-dimethyl-
+__label__C10H14	Benzene, (1-methylpropyl)-
+__label__C12H10S	Diphenyl sulfide
+__label__C10H14	Benzene, n-butyl-
+__label__C7H8S	Benzene, (methylthio)-
+__label__C7H9N	Aniline, N-methyl-
+__label__C7H9N	Benzylamine
+__label__BeH	Beryllium monohydride
+__label__BeCl	Beryllium chloride
+__label__BeF	Beryllium monofluoride
+__label__ClTi	Titanium chloride
+__label__Cl2Ti	titanium dichloride
+__label__BeH2	Beryllium hydride
+__label__HNa	Sodium hydride
+__label__BrCa	Calcium monobromide
+__label__BH2	Boron dihydride
+__label__BaBr	Barium monobromide
+__label__BrSr	Strontium monobromide
+__label__C12H24	Cyclohexane, hexyl-
+__label__C6H9N	cyclopentanecarbonitrile
+__label__C11H10	1a,7b-Dihydrocyclopropa[a]naphthalene
+__label__C14H28	Cyclohexane, octyl-
+__label__C8H16	Cyclohexane, ethyl-
+__label__C7H12	2-Pentyne, 4,4-dimethyl-
+__label__C12H16	Benzene, cyclohexyl-
+__label__C10H14	Benzene, (2-methylpropyl)-
+__label__C7H5NO	Benzoxazole
+__label__C13H12	Diphenylmethane
+__label__C7H7NO2	Benzene, 1-methyl-4-nitro-
+__label__C9H20O4	Tetraethoxymethane
+__label__C6H4	(E)-Hexa-1,5-diyne-3-ene
+__label__H2O2Sr	strontium hydroxide
+__label__HOSr	Strontium monohydroxide
+__label__BaH2O2	barium hydroxide
+__label__CaHO	Calcium monohydroxide
+__label__CSi	silicon carbide
+__label__C4H4N2	Butanedinitrile
+__label__CFN	Cyanogen fluoride
+__label__C8H8O	Benzene, (ethenyloxy)-
+__label__C7H7I	Benzene, 1-iodo-2-methyl-
+__label__C8H18	Pentane, 2,2,3-trimethyl-
+__label__C7H16	Pentane, 3,3-dimethyl-
+__label__C8H18	Pentane, 2,3,3-trimethyl-
+__label__C8H2	1,3,5,7-Octatetrayne
+__label__C4H4N2	Pyrazine
+__label__C4H4N2	1,3-Diazine
+__label__C12H8S	Dibenzothiophene
+__label__C12H10O	o-Hydroxybiphenyl
+__label__AlClO	aluminium chloride oxide
+__label__C13H10O	Benzophenone
+__label__C10H10Fe	Ferrocene
+__label__C8H6S	Benzo[b]thiophene
+__label__C6H3Cl3	Benzene, 1,2,3-trichloro-
+__label__C12H9N	Carbazole
