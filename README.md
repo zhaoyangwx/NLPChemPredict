@@ -7,9 +7,11 @@ Recommended requirements: .Net Framework 4.5
 
 
 
+
 **WordVecGenerator**: Get word vector from names
 
 Recommended requirements: Python 3.x, fastText 0.9.2, gensim 3.8.3
+
 
 
 
