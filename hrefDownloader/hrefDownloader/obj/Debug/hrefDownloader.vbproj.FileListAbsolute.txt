@@ -1,0 +1,14 @@
+d:\Documents\Visual Studio 2017\Projects\hrefDownloader\hrefDownloader\bin\Debug\hrefDownloader.exe.config
+d:\Documents\Visual Studio 2017\Projects\hrefDownloader\hrefDownloader\bin\Debug\hrefDownloader.exe
+d:\Documents\Visual Studio 2017\Projects\hrefDownloader\hrefDownloader\bin\Debug\hrefDownloader.pdb
+d:\Documents\Visual Studio 2017\Projects\hrefDownloader\hrefDownloader\bin\Debug\hrefDownloader.xml
+d:\Documents\Visual Studio 2017\Projects\hrefDownloader\hrefDownloader\obj\Debug\hrefDownloader.Form1.resources
+d:\Documents\Visual Studio 2017\Projects\hrefDownloader\hrefDownloader\obj\Debug\hrefDownloader.Resources.resources
+d:\Documents\Visual Studio 2017\Projects\hrefDownloader\hrefDownloader\obj\Debug\hrefDownloader.vbproj.GenerateResource.cache
+d:\Documents\Visual Studio 2017\Projects\hrefDownloader\hrefDownloader\obj\Debug\hrefDownloader.vbproj.CoreCompileInputs.cache
+d:\Documents\Visual Studio 2017\Projects\hrefDownloader\hrefDownloader\obj\Debug\hrefDownloader.exe
+d:\Documents\Visual Studio 2017\Projects\hrefDownloader\hrefDownloader\obj\Debug\hrefDownloader.xml
+d:\Documents\Visual Studio 2017\Projects\hrefDownloader\hrefDownloader\obj\Debug\hrefDownloader.pdb
+D:\Documents\Visual Studio 2017\Projects\hrefDownloader\hrefDownloader\obj\Debug\hrefDownloader.Form2.resources
+D:\Documents\Visual Studio 2017\Projects\hrefDownloader\hrefDownloader\obj\Debug\hrefDownloader.vbproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2017\Projects\hrefDownloader\hrefDownloader\obj\Debug\hrefDownloader.vbprojAssemblyReference.cache
